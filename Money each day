@@ -1,0 +1,10 @@
+"""Money Each Month"""
+def money(money_now, day, month):
+    """Calculate money"""
+    if month in ["January", "March", "May", "July", "August", "October", "December"]:
+        print(money_now//((31-day)+1))
+    elif month in ["April", "June", "September", "November"]:
+        print(money_now//((30-day)+1))
+    elif month == "February":
+        print(money_now//((28-day)+1))
+money(int(input()), int(input()), input())
