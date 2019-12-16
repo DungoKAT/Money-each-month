@@ -1,0 +1,14 @@
+D:\PSIT\Project\Future Money Management\Future Money Management\bin\Debug\Future Money Management.exe.config
+D:\PSIT\Project\Future Money Management\Future Money Management\bin\Debug\Future Money Management.exe
+D:\PSIT\Project\Future Money Management\Future Money Management\bin\Debug\Future Money Management.pdb
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\Future Money Management.csprojAssemblyReference.cache
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\MainWindow.g.cs
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\App.g.cs
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\Future Money Management_MarkupCompile.cache
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\Future Money Management_MarkupCompile.lref
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\MainWindow.baml
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\Future Money Management.g.resources
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\Future_Money_Management.Properties.Resources.resources
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\Future Money Management.csproj.GenerateResource.cache
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\Future Money Management.exe
+D:\PSIT\Project\Future Money Management\Future Money Management\obj\Debug\Future Money Management.pdb
