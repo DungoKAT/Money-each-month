@@ -1,0 +1,16 @@
+D:\PSIT\Project\Money Management\Money Management\bin\Debug\Money Management.exe.config
+D:\PSIT\Project\Money Management\Money Management\bin\Debug\Money Management.exe
+D:\PSIT\Project\Money Management\Money Management\bin\Debug\Money Management.pdb
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\Money Management.csprojAssemblyReference.cache
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\MainWindow.g.cs
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\App.g.cs
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\Money Management_MarkupCompile.cache
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\Money Management_MarkupCompile.lref
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\MainWindow.baml
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\Money Management.g.resources
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\Money_Management.Properties.Resources.resources
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\Money Management.csproj.GenerateResource.cache
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\Money Management.exe
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\Money Management.pdb
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\Window1.g.cs
+D:\PSIT\Project\Money Management\Money Management\obj\Debug\Window1.baml
